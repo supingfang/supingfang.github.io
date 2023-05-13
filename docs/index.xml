@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>pingfang.su</title>
-        <link>https://example.com/</link>
+        <link>https://supingfang.github.io/</link>
         <description>苏平方的web3世界</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 10 May 2023 10:45:01 &#43;0800</lastBuildDate>
-            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://supingfang.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>欢迎来到苏平方的web3世界</title>
-    <link>https://example.com/posts/first-letter/</link>
+    <link>https://supingfang.github.io/posts/first-letter/</link>
     <pubDate>Wed, 10 May 2023 10:45:01 &#43;0800</pubDate>
     <author>pingfang.su</author>
-    <guid>https://example.com/posts/first-letter/</guid>
+    <guid>https://supingfang.github.io/posts/first-letter/</guid>
     <description><![CDATA[The First Letter]]></description>
 </item>
 </channel>
